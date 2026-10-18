@@ -1,4 +1,4 @@
-# 🩺 Medical AI Assistant
+# 🩺 MedRAG (Medical AI Assistant)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Framework-Flask-black.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
